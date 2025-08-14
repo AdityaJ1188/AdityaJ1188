@@ -1,4 +1,4 @@
-## Hi there I am Aaditya 👋
+## Hi there I am Aaditya 👋 
 
 <!--
 **AdityaJ1188/AdityaJ1188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
